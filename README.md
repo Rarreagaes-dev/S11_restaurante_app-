@@ -3,7 +3,7 @@
 
 # Restaurante App - Semana 11 (POO)
 
-**Estudiante:** Merlinthon Wilfrido España Carbo  
+**Estudiante:** Ruth Noemí Arreaga Espinoza 
 **Asignatura:** Programación Orientada a Objetos  
 
 ## Descripción
